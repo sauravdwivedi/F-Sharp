@@ -1,4 +1,4 @@
-# A collection of F# programms I wrote for practice
+# A collection of F#/.NET programms I wrote for practice
 
 Program/problem description is given as doc comment on top of each program.
 
